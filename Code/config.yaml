@@ -1,0 +1,36 @@
+high_scores:
+  1:
+    level: Mini
+    name: null
+    score: 0
+  2:
+    level: Normal
+    name: null
+    score: 0
+  3:
+    level: Pro
+    name: null
+    score: 0
+  4:
+    level: Pro Max
+    name: null
+    score: 0
+levels:
+  1:
+    name: Mini
+    words: 8
+  2:
+    name: Normal
+    words: 13
+  3:
+    name: Pro
+    words: 17
+  4:
+    name: Pro Max
+    words: 23
+max_time: 5
+player:
+  level: 1
+  name: a
+  score: 0
+words_count: 8
