@@ -1,7 +1,0 @@
-apple
-computer
-mobile
-python
-clock
-book
-cat
